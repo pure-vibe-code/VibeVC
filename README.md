@@ -1,4 +1,5 @@
 <div align="center">
+<div align="center">
   
 # VibeVC
 </div>
@@ -49,3 +50,6 @@ VibeVC is a single Python script.
 
 ```bash
 python vibevc.py <command>
+```
+
+</div>
