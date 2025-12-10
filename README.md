@@ -1,11 +1,27 @@
+<div align="center">
+  
 # VibeVC
+</div>
+
+<br>
+
+<div align="center">
+<img width="521" height="406" alt="s2" src="https://github.com/user-attachments/assets/7af064ce-4d07-49d9-a367-507351694ec4" />
+</div>
+
+
+<br>
+
+
 
 VibeVC is a lightweight, offline-only, and highly resilient local version control system designed for developers who need simple, reliable snapshots without the complexity of distributed systems or online hosting. It prioritizes speed, simplicity, and recoverability.
-<img width="1024" height="576" alt="s" src="https://github.com/user-attachments/assets/f966f5c8-dd64-48c5-ba68-51c9c1d3bc89" />
+
 
 ---
 
 ## ✨ Core Current Features (VibeVC v1.2)
+
+<br>
 
 | Feature               | Description                                                                                                                                                               | CLI Command                                | Safety & Architecture                                                                                                    |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
